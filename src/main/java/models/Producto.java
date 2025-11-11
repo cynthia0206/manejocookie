@@ -1,6 +1,7 @@
 package models;
 /*
-
+ * AUTOR: CYNTHIA CUNEZ
+ * FECHA: 2/11/2025
  */
 public class Producto {
     // declaramos las variables de mi objeto producto

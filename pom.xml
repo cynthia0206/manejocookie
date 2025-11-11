@@ -19,7 +19,7 @@
     </properties>
 
     <dependencies>
-        <!-- ✅ Jakarta EE API (necesaria para usar HttpServlet, WebServlet, etc.) -->
+
         <dependency>
             <groupId>jakarta.platform</groupId>
             <artifactId>jakarta.jakartaee-api</artifactId>
@@ -27,7 +27,6 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- Dependencias para pruebas -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>

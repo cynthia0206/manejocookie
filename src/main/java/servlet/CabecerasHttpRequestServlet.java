@@ -1,4 +1,8 @@
 package servlet;
+/*
+ * AUTOR: CYNTHIA CUNEZ
+ * FECHA: 2/11/2025
+ */
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
